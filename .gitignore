@@ -6,6 +6,7 @@ service_account.json
 chrome-profile/
 chrome_profile/
 chrome_profile_chatgpt
+.vscode/
 
 # Logs
 *.log
