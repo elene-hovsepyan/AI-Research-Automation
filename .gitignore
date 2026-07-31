@@ -1,0 +1,22 @@
+# Secrets
+.env
+service_account.json
+.DS_Store
+# Chrome profile (local only)
+chrome-profile/
+chrome_profile/
+chrome_profile_chatgpt
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Docker
+.dockerignore.venv
+
+# Generated files
+app/browser.py
